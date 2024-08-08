@@ -1,4 +1,5 @@
 Affected code
+
 <img src="https://imgur.com/saXPovG.png">
 
 Request to trigger the vuln
