@@ -1,6 +1,13 @@
-Pre-requisite:
+Pre-requisites:
+
+Enable guest authors
 
 <img src="https://imgur.com/QbXtubj.png">
+
+Add new guest
+
+<img src="https://imgur.com/uzrUmUS.png">
+
 
 Affected code:
 
