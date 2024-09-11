@@ -4,6 +4,12 @@ in v3.7.2.1
 
 <img src="https://imgur.com/3C2TafP.png">
 
+in v3.8.0
+
+<img src="https://imgur.com/hcPqJMZ.png">
+
+<img src="https://imgur.com/APJt2mn.png">
+
 
 Pre-requisites:
 
