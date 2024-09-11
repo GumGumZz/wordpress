@@ -1,3 +1,10 @@
+Edit 11/09/2024
+
+in v3.7.2.1
+
+<img src="https://imgur.com/3C2TafP.png">
+
+
 Pre-requisites:
 
 Enable guest authors
